@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Noel Pinto</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_num">+91 882846618</string>
+    <string name="email_id">noelpinto47@gmail.com</string>
+    <string name="tag">\@noelpinto47</string>
+</resources>
